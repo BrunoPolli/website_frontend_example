@@ -9,13 +9,13 @@
 ![Home_Page_Section](frontend/assets/examples/home_page_section.jpg)
 
 ## Backend
-### npm install `#58296b`
+### npm install 
 
-### npm start `#58296b`
+### npm start
 
 ## Frontend
-### Open local file in browser `#58296b`
+### Open local file in browser
 
 
 ## Author:
-### Bruno Polli `#58296b`
+### Bruno Polli
